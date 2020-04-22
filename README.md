@@ -1,2 +1,2 @@
-Code for DigiChimes app that creates digital, generative chime sounds and relaxing visuals.
+Code for DigiChimes app that creates digital, generative chime sounds and relaxing visuals in OpenFrameworks.
 
